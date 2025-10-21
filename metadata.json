@@ -1,0 +1,9 @@
+{
+  "containerName": "imported-container",
+  "containerId": "0a713fd7-50f1-46a4-bcbc-9409f8225271",
+  "description": "Docker image: hello-world:latest (amd64/linux)",
+  "createdAt": "2025-10-16T12:42:22.573Z",
+  "exportedAt": "2025-10-21T05:43:36.237Z",
+  "filesCount": 0,
+  "technology": "unknown"
+}
